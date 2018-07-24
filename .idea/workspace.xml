@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="becce856-bda7-4427-a153-6dca5784278d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/fire_hazard/fire_hazard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/fire_hazard/fire_hazard_control.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/grid_manage/grid_manage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/grid_manage/grid_manage_control.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/patrol_record/patrol_record.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/patrol_record/patrol_record_control.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/people_room/people_room.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/people_room/people_room_control.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/video/video.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/video/video_control.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/business/video/video_res.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/center/baseMap2D.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/center/baseMap3D.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/center/center.vue" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/pages/center/center.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/center/headIconListen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/head/head.vue" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/pages/head/head.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/leftmenu/leftMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/pages/leftmenu/leftMenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/rightrouter/celiangTools/celiangTools.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/rightrouter/celiangTools/measure2D.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/rightrouter/measure/measure2D.vue" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/pages/rightrouter/measure/measure2D.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/plugin/resourcePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/store/modules/leftMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/2d/map2dConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/2d/menu_2d.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/static/config/2d/menu_2d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/3d/map3dConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/3d/map3dLayers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/3d/map3dLayers.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/static/config/3d/map3dLayers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/static/config/env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/menu/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/projectConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/static/config/projectConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/url.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/static/config/url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/config/windowMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/images/setSkyNode/00_DN_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/images/setSkyNode/04_BK.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/images/setSkyNode/04_DN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/images/setSkyNode/04_FR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/images/setSkyNode/04_LF.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/images/setSkyNode/04_RT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/images/setSkyNode/04_UP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/jsLib/cm7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/jsLib/echarts.source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/advanced_analysis/advanced_analysis.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/area_block.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/buffer_analysis/buffer_analysis.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/classification_query/classificationQuery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/heat_map_analysis/enterpriseDensity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/heat_map_analysis/environmentalPollution.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/heat_map_analysis/populationDensity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/main_company/air_quality.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/main_company/main_company.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/people_car/allLines.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/people_car/lineCars.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/people_car/trafficLines.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/pipeline_analysis/pipeline_analysis.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/ps_3d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/tabBar/tabBar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/taxi_history/taxi_history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/traffic_history/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/traffic_history/search_all_lines.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/json/weather.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/pages/air_quality.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/pages/data_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/static/pages/data_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/pages/main_company.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/pages/query_normal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/static/pages/query_width_map.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/template/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cityworks_template_simple_git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cityworks_template_simple_git" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="becce856-bda7-4427-a153-6dca5784278d" name="Default" comment="" />
+      <created>1532404724104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532404724104</updated>
+      <workItem from="1532404725411" duration="262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="262000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="1.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
