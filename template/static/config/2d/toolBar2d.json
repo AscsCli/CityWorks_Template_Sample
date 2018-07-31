@@ -1,7 +1,8 @@
 {
-    "toolBar2d": [
+    "toolBars2d": [
         {
             "class": "d",
+            "type":"action",
             "title": "转换成3D"
         },
         {
@@ -22,6 +23,9 @@
         },
         {
             "class": "celiang",
+            "type":"router",
+            "url":"./pages/rightrouter/measure2D/measure2D.vue",
+            "router": "/home/measure2D",
             "title": "测量"
         },
         {

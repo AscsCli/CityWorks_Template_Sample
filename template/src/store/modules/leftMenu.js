@@ -12,6 +12,10 @@ const leftMenu = {
     CloseMenu({ commit }, showDeatil) {
       commit('SET_SHOWDEATIL', showDeatil)
     }
+  },
+  getters : {
+    showDeatil: state => state.showDeatil,
+
   }
 }
 

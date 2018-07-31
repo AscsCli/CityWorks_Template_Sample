@@ -1,4 +1,4 @@
-var PROXY = {
+var API = {
   baseUrl:"",
   apiList:{
     getMapConfig:{
@@ -37,7 +37,7 @@ var PROXY = {
       properties: [],
     },
     getBuildingList:{
-      isMock: true,
+      isMock: false,
       description: "获取重点建筑列表",
       path: "/buildingList",
       method: "get",

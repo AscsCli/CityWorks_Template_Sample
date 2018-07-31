@@ -1,24 +1,8 @@
 {
     "tab2d":[
         {
-            "name": "地理变化1",
-            "router": "home/layerTimerView",
-            "powercode": "DILI"
-        },
-        {
-            "name": "影像对比1",
-            "router": "home/swipView",
-            "powercode": "YINGXIANG"
-        },
-        {
-            "name": "测量工具1",
-            "router": "home/measure2D",
-            "powercode": "CELIANG"
-        }
-    ],
-    "tab3d":[
-        {
             "name": "地理变化",
+
             "router": "home/layerTimerView",
             "powercode": "DILI"
         },
@@ -29,6 +13,29 @@
         },
         {
             "name": "测量工具",
+            "type":"router",
+            "url":"./pages/rightrouter/measure2D/measure2D.vue",
+            "router": "/home/measure2D",
+            "powercode": "CELIANG"
+        }
+    ],
+    "tab3d":[
+        {
+            "name": "重点建筑3D",
+            "type":"router",
+            "url":"./business/mainBuilding/mainBuilding.vue",
+            "router": "/home/mainBuilding",
+            "powercode": "DILI"
+        },
+        {
+            "name": "影像对比3d",
+            "router": "home/swipView",
+          "type":"router",
+            "powercode": "YINGXIANG"
+        },
+        {
+            "name": "测量工具3d",
+
             "router": "home/measure2D",
             "powercode": "CELIANG"
         }
